@@ -1,3 +1,4 @@
+
 # 👋 Hi there, I'm Atul Kumar Soni!
 
 <p align="center">
@@ -40,13 +41,13 @@ const atul = {
 
 ## 🎯 Current Focus & Goals
 
-- 🔭 **Currently Working On**: React Native apps, MERN stack projects, and DevOps automation
-- 🌱 **Learning**: System Design, Next.js, Docker, Kubernetes, AWS Solutions Architecture
-- 🎯 **2025 Goals**: 
-  - Launch a SaaS product with full CI/CD pipeline
-  - Contribute to 10+ open-source projects
-  - Master cloud architecture patterns
-  - Build 5 production-ready apps
+- 🔭 **Currently Working On**: React Native apps, MERN stack projects, and DevOps automation  
+- 🌱 **Learning**: System Design, Next.js, Docker, Kubernetes, AWS Solutions Architecture  
+- 🎯 **2025 Goals**:  
+  - Launch a SaaS product with full CI/CD pipeline  
+  - Contribute to 10+ open-source projects  
+  - Master cloud architecture patterns  
+  - Build 5 production-ready apps  
 - 💡 **Always Exploring**: New frameworks, best practices, and emerging technologies
 
 ---
@@ -123,7 +124,6 @@ Status: ✅ Production Ready
 ```yaml
 Tech Stack: Java, Algorithms, Data Structures
 Content:
-  - 500+ solved problems
   - Detailed explanations
   - Time/Space complexity analysis
   - Interview tips & patterns
@@ -185,21 +185,21 @@ Status: ⚡ In Development
 ## 💼 Professional Experience & Skills
 
 ### 🎯 Specializations
-- **Full-Stack Development**: End-to-end web and mobile application development
-- **DevOps Engineering**: CI/CD pipeline design, infrastructure automation
-- **System Architecture**: Scalable system design and microservices architecture
+- **Full-Stack Development**: End-to-end web and mobile application development  
+- **DevOps Engineering**: CI/CD pipeline design, infrastructure automation  
+- **System Architecture**: Scalable system design and microservices architecture  
 - **Cloud Solutions**: AWS-based solutions and serverless architectures
 
 ### 📚 Currently Learning
-- Advanced System Design Patterns
-- Kubernetes & Container Orchestration
-- AWS Solutions Architecture
-- GraphQL & Apollo Federation
+- Advanced System Design Patterns  
+- Kubernetes & Container Orchestration  
+- AWS Solutions Architecture  
+- GraphQL & Apollo Federation  
 - Terraform & Infrastructure as Code
 
 ### 🏅 Certifications (In Progress)
-- AWS Solutions Architect Associate
-- Certified Kubernetes Administrator (CKA)
+- AWS Solutions Architect Associate  
+- Certified Kubernetes Administrator (CKA)  
 - Docker Certified Associate
 
 ---
@@ -219,19 +219,19 @@ Status: ⚡ In Development
 
 <p align="center">
   <a href="https://linkedin.com/in/atul-kumar-soni">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/soniatul2051">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:atul.soni.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://dev.to/soniatul2051">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://portfolio-atul.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -239,24 +239,24 @@ Status: ⚡ In Development
 
 ## 💡 Fun Facts & Interests
 
-- 🎮 **Gaming**: Love strategy games and problem-solving puzzles
-- 📚 **Reading**: Tech blogs, system design articles, and startup stories
-- 🏃‍♂️ **Fitness**: Regular running and outdoor activities
-- 🍕 **Cooking**: Experimenting with new recipes (just like debugging code!)
-- 🎵 **Music**: Coding with lo-fi beats and instrumental music
-- 🌱 **Gardening**: Growing plants and debugging life! 🌿
+- 🎮 Strategy games & problem-solving puzzles  
+- 📚 Tech blogs, system design articles & startup stories  
+- 🏃‍♂️ Regular running & outdoor fitness  
+- 🍕 Cooking experiments (debugging recipes 😄)  
+- 🎵 Coding with lo-fi & instrumental music  
+- 🌱 Gardening — debugging life one plant at a time
 
 ---
 
 ## 📌 Quick Stats
 
 ```text
-💼 Years of Experience     : 3+
-🚀 Projects Completed      : 25+
-☕ Cups of Coffee         : 1000+
-🐛 Bugs Fixed            : Countless
-⭐ GitHub Stars          : 150+
-🤝 Open Source Contribs   : 15+
+💼 Years of Experience     : 1+
+🚀 Projects Completed      : 5+
+☕ Cups of Coffee          : 10+
+🐛 Bugs Fixed              : 3
+⭐ GitHub Stars             : 5
+🤝 Open Source Contribs    : 1
 ```
 
 ---
@@ -268,8 +268,6 @@ Status: ⚡ In Development
 <p align="center">
   <b>✨ Thanks for visiting my profile! Feel free to reach out for collaborations or just a tech chat! ✨</b>
 </p>
-
----
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
