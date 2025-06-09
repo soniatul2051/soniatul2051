@@ -13,6 +13,9 @@
 
 ## 🚀 About Me
 
+<details>
+<summary>📋 <b>Click to view my developer profile</b></summary>
+
 ```javascript
 const atul = {
     pronouns: "He/Him",
@@ -37,6 +40,33 @@ const atul = {
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
+
+</details>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 What I Do
+- 🔭 Full-Stack Development
+- 📱 React Native Apps
+- ⚡ DevOps Automation
+- 🏗️ System Architecture
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Current Focus
+- 🌱 System Design Patterns
+- ☁️ AWS Solutions Architecture
+- 🚀 Kubernetes & Docker
+- 📊 Scalable Applications
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Current Focus & Goals
 
@@ -76,7 +106,7 @@ const atul = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql" />
 </p>
 
-### 📔️ Databases & Storage
+### 🗄️ Databases & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
 </p>
@@ -95,8 +125,13 @@ const atul = {
 
 ## 🏆 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌐 [Event Planner Platform](https://github.com/soniatul2051/event-planner)
-> **Modern Wedding & Event Booking Platform**
+**Modern Wedding & Event Booking Platform**
+
 ```yaml
 Tech Stack: React, TypeScript, Tailwind CSS, Firebase, Stripe
 Features: 
@@ -108,8 +143,12 @@ Features:
 Status: ✅ Production Ready
 ```
 
+</td>
+<td width="50%">
+
 ### 📱 [React Native E-Commerce App](https://github.com/soniatul2051/react-native-shop)
-> **Full-Featured Mobile Shopping Application**
+**Full-Featured Mobile Shopping Application**
+
 ```yaml
 Tech Stack: React Native, Redux Toolkit, Firebase, Stripe
 Features:
@@ -121,8 +160,14 @@ Features:
 Status: ✅ Production Ready
 ```
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🧠 [Java DSA Problem Bank](https://github.com/soniatul2051/java-dsa)
-> **Comprehensive Interview Preparation Resource**
+**Comprehensive Interview Preparation Resource**
+
 ```yaml
 Tech Stack: Java, Algorithms, Data Structures
 Content:
@@ -132,8 +177,12 @@ Content:
 Status: 🔄 Continuously Updated
 ```
 
+</td>
+<td width="50%">
+
 ### 🚀 [DevOps Pipeline Automation](https://github.com/soniatul2051/devops-automation)
-> **Complete CI/CD Pipeline with Infrastructure as Code**
+**Complete CI/CD Pipeline with Infrastructure as Code**
+
 ```yaml
 Tech Stack: Jenkins, Docker, Terraform, Ansible, AWS
 Features:
@@ -144,8 +193,13 @@ Features:
 Status: ⚡ In Development
 ```
 
-### 📇 [Microservices Architecture Template](https://github.com/soniatul2051/microservices-template)
+</td>
+</tr>
+</table>
+
+### 🎯 [Microservices Architecture Template](https://github.com/soniatul2051/microservices-template)
 > **Production-Ready Microservices Boilerplate**
+
 ```yaml
 Tech Stack: Node.js, Docker, Kubernetes, MongoDB, Redis
 Features:
@@ -161,36 +215,43 @@ Status: ⚡ In Development
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soniatul2051&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniatul2051&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soniatul2051&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniatul2051&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniatul2051&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniatul2051&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soniatul2051&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soniatul2051&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soniatul2051&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soniatul2051&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 ## 💼 Professional Experience & Skills
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎯 Specializations
 - **Full-Stack Development**: End-to-end web and mobile application development  
 - **DevOps Engineering**: CI/CD pipeline design, infrastructure automation  
 - **System Architecture**: Scalable system design and microservices architecture  
 - **Cloud Solutions**: AWS-based solutions and serverless architectures
+
+</td>
+<td width="50%">
 
 ### 📚 Currently Learning
 - Advanced System Design Patterns  
@@ -199,20 +260,50 @@ Status: ⚡ In Development
 - GraphQL & Apollo Federation  
 - Terraform & Infrastructure as Code
 
+</td>
+</tr>
+</table>
+
 ### 🏅 Certifications (In Progress)
-- AWS Solutions Architect Associate  
-- Certified Kubernetes Administrator (CKA)  
-- Docker Certified Associate
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Certified_Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable React Native Apps: Best Practices](https://dev.to/soniatul2051)
-- ⚡ [DevOps Automation with Jenkins & Docker](https://dev.to/soniatul2051)
-- 📇 [Microservices Architecture: A Practical Guide](https://dev.to/soniatul2051)
-- 🔧 [System Design Interview Preparation](https://dev.to/soniatul2051)
+<table>
+<tr>
+<td width="25%" align="center">
+
+🚀 **[Building Scalable React Native Apps](https://dev.to/soniatul2051)**
+*Best Practices Guide*
+
+</td>
+<td width="25%" align="center">
+
+⚡ **[DevOps Automation Guide](https://dev.to/soniatul2051)**
+*Jenkins & Docker*
+
+</td>
+<td width="25%" align="center">
+
+📇 **[Microservices Architecture](https://dev.to/soniatul2051)**
+*Practical Implementation*
+
+</td>
+<td width="25%" align="center">
+
+🔧 **[System Design Interview](https://dev.to/soniatul2051)**
+*Preparation Guide*
+
+</td>
+</tr>
+</table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -241,25 +332,64 @@ Status: ⚡ In Development
 
 ## 💡 Fun Facts & Interests
 
-- 🎮 Strategy games & problem-solving puzzles  
-- 📓 Tech blogs, system design articles & startup stories  
-- 🏃‍♂️ Regular running & outdoor fitness  
-- 🍕 Cooking experiments (debugging recipes 😄)  
-- 🎵 Coding with lo-fi & instrumental music  
-- 🌱 Gardening — debugging life one plant at a time
+<table>
+<tr>
+<td width="33%" align="center">
+
+🎮 **Gaming & Puzzles**
+Strategy games & problem-solving challenges
+
+</td>
+<td width="33%" align="center">
+
+📚 **Tech Enthusiast**
+System design articles & startup stories
+
+</td>
+<td width="34%" align="center">
+
+🏃‍♂️ **Active Lifestyle**
+Running & outdoor fitness adventures
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+🍕 **Cooking Experiments**
+Debugging recipes in the kitchen
+
+</td>
+<td width="33%" align="center">
+
+🎵 **Music Lover**
+Lo-fi & instrumental coding sessions
+
+</td>
+<td width="34%" align="center">
+
+🌱 **Gardening Hobbyist**
+Debugging life one plant at a time
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Quick Stats
 
-```text
-💼 Years of Experience     : 1+
-🚀 Projects Completed      : 5+
-☕ Cups of Coffee          : 10+
-🐛 Bugs Fixed              : 3
-⭐ GitHub Stars             : 5
-🤝 Open Source Contribs    : 1
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-10%2B%20Completed-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-1000%2B%20Cups-brown?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bugs%20Fixed-∞-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Stars-50%2B-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Contribs-purple?style=for-the-badge" />
+</p>
 
 ---
 
@@ -274,3 +404,13 @@ Status: ⚡ In Development
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
+
+---
+
+<div align="center">
+
+### 🚀 Ready to build something amazing together?
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-blue?style=for-the-badge&logo=handshake&logoColor=white)](mailto:atul.soni.dev@gmail.com)
+
+</div>
