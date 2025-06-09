@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Atul Kumar Soni!
 
 <p align="center">
@@ -37,13 +36,13 @@ const atul = {
     currentFocus: "Building scalable applications with modern DevOps practices",
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
-
+```
 
 ## 🎯 Current Focus & Goals
 
 - 🔭 **Currently Working On**: React Native apps, MERN stack projects, and DevOps automation  
 - 🌱 **Learning**: System Design, Next.js, Docker, Kubernetes, AWS Solutions Architecture  
-- 🎯 **2025 Goals**:  
+- 🌟 **2025 Goals**:  
   - Launch a SaaS product with full CI/CD pipeline  
   - Contribute to 10+ open-source projects  
   - Master cloud architecture patterns  
@@ -72,13 +71,12 @@ const atul = {
   <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge" alt="iOS" />
 </p>
 
-
 ### ⚙️ Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql" />
 </p>
 
-### 🗄️ Databases & Storage
+### 📔️ Databases & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
 </p>
@@ -146,7 +144,7 @@ Features:
 Status: ⚡ In Development
 ```
 
-### 🏗️ [Microservices Architecture Template](https://github.com/soniatul2051/microservices-template)
+### 📇 [Microservices Architecture Template](https://github.com/soniatul2051/microservices-template)
 > **Production-Ready Microservices Boilerplate**
 ```yaml
 Tech Stack: Node.js, Docker, Kubernetes, MongoDB, Redis
@@ -213,7 +211,7 @@ Status: ⚡ In Development
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [Building Scalable React Native Apps: Best Practices](https://dev.to/soniatul2051)
 - ⚡ [DevOps Automation with Jenkins & Docker](https://dev.to/soniatul2051)
-- 🏗️ [Microservices Architecture: A Practical Guide](https://dev.to/soniatul2051)
+- 📇 [Microservices Architecture: A Practical Guide](https://dev.to/soniatul2051)
 - 🔧 [System Design Interview Preparation](https://dev.to/soniatul2051)
 <!-- BLOG-POST-LIST:END -->
 
@@ -244,7 +242,7 @@ Status: ⚡ In Development
 ## 💡 Fun Facts & Interests
 
 - 🎮 Strategy games & problem-solving puzzles  
-- 📚 Tech blogs, system design articles & startup stories  
+- 📓 Tech blogs, system design articles & startup stories  
 - 🏃‍♂️ Regular running & outdoor fitness  
 - 🍕 Cooking experiments (debugging recipes 😄)  
 - 🎵 Coding with lo-fi & instrumental music  
