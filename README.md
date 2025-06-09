@@ -23,7 +23,7 @@ const atul = {
     askMeAbout: ["web dev", "mobile dev", "tech", "system design", "devops"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue"],
+            js: ["React", "Next.js"],
             css: ["Tailwind", "Bootstrap", "Styled Components"],
             mobile: ["React Native", "Expo"]
         },
@@ -311,7 +311,7 @@ Status: ⚡ In Development
 ## 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/atul-kumar-soni">
+  <a href="https://www.linkedin.com/in/atul-kumar-soni-a25bbb15b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/soniatul2051">
@@ -323,7 +323,7 @@ Status: ⚡ In Development
   <a href="https://dev.to/soniatul2051">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://portfolio-atul.vercel.app">
+  <a href="https://">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -380,15 +380,15 @@ Debugging life one plant at a time
 ## 📌 Quick Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-10%2B%20Completed-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coffee-1000%2B%20Cups-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-5%2B%20Completed-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-10%2B%20Cups-brown?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bugs%20Fixed-∞-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Stars-50%2B-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Contribs-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bugs%20Fixed-4-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Stars-0%2B-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-1%2B%20Contribs-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -411,6 +411,6 @@ Debugging life one plant at a time
 
 ### 🚀 Ready to build something amazing together?
 
-[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-blue?style=for-the-badge&logo=handshake&logoColor=white)](mailto:atul.soni.dev@gmail.com)
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-blue?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/atul-kumar-soni-a25bbb15b/)
 
 </div>
