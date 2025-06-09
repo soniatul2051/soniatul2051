@@ -412,5 +412,5 @@ Debugging life one plant at a time
 ### 🚀 Ready to build something amazing together?
 
 [![Let's Connect](https://img.shields.io/badge/Let's%20Connect-blue?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/atul-kumar-soni-a25bbb15b/)
-
+In this on few techs and project currently working
 </div>
