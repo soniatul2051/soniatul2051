@@ -37,7 +37,7 @@ const atul = {
     currentFocus: "Building scalable applications with modern DevOps practices",
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
-```
+
 
 ## 🎯 Current Focus & Goals
 
@@ -61,13 +61,17 @@ const atul = {
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,expo,android,ios" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="Expo" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge" alt="iOS" />
 </p>
+
 
 ### ⚙️ Backend Development
 <p align="center">
